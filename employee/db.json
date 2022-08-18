@@ -1,0 +1,52 @@
+{
+  "Users":[
+    {
+   "Id":"25768d9f-502a-4776-8796-c26d76d6a6eb",
+   "EmployeeName":"Dhiraj Thakre",
+   "StarTimeUtc":"2022-02-22T14:15:00",
+   "EndTimeUtc":"2022-02-22T12:01:00",
+   "EntryNotes":"working on project Take-Two Interactive",
+   "DeletedOn":null
+  },
+  {
+   "Id":"77e4bfce-5b1b-4103-8ae0-5e22a96fe6f4",
+   "EmployeeName":"Mahima Gupta",
+   "StarTimeUtc":"2022-02-21T09:42:00",
+   "EndTimeUtc":"2022-02-21T13:02:00",
+   "EntryNotes":"analyzing ticket in Towers Perrin",
+   "DeletedOn":null
+  },
+  {
+   "Id":"ac9cc343-083c-45bf-9058-9a73d15b76f7",
+   "EmployeeName":"Mary Poppins",
+   "StarTimeUtc":"2022-02-23T12:40:00",
+   "EndTimeUtc":"2022-02-23T16:26:00",
+   "EntryNotes":"debugging issue in THQ",
+   "DeletedOn":null
+  },
+  {
+   "Id":"f5ff7946-1eb4-413b-902c-6f315b6b18fb",
+   "EmployeeName":"Tony Stark",
+   "StarTimeUtc":"2022-02-05T07:40:00",
+   "EndTimeUtc":"2022-02-05T08:33:00",
+   "EntryNotes":"reviewing patch for sure",
+   "DeletedOn":null
+  },
+  {
+   "Id":"a8c92670-0b0f-4811-8bbb-7c890b834659",
+   "EmployeeName":"Patrick Huthinson",
+   "StarTimeUtc":"2022-02-23T07:17:00",
+   "EndTimeUtc":"2022-02-23T09:48:00",
+   "EntryNotes":"analyzing ticket in Southern California Edison",
+   "DeletedOn":null
+  },
+  {
+   "Id":"51b102ec-709f-4436-8f6b-07cc79775c23",
+   "EmployeeName":"Abhay Singh",
+   "StarTimeUtc":"2022-02-22T15:07:00",
+   "EndTimeUtc":"2022-02-22T16:44:00",
+   "EntryNotes":"analyzing ticket in McCormick & Company",
+   "DeletedOn":null
+  }
+ ]
+}
